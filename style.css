@@ -12,6 +12,14 @@ body {
     margin: 0 auto;
 }
 
+.hero__content__title {
+    font-size: 3rem;
+    line-height: 48px;
+    font-weight: 900;
+    text-transform: uppercase;
+    color: #309f00;
+}
+
 header nav {
     display: flex;
     justify-content: space-between;
@@ -67,7 +75,7 @@ header {
   font-size: 1rem;
   line-height: 26px;
   color:#ee3eae;
-  margin-top: 35px;
+  margin-top: 135px;
 } 
 @media screen and (min-width: 1280px) {
     .hero .hero_content_descriptiion {
@@ -244,7 +252,7 @@ body {
 
 .wrapper {
   animation: scroll 50s linear infinite;
-  background: url("https://i.ibb.co/m9ChmFT/sl-012120-27260-36.jpg"),
+  background: url("https://i.ibb.co/dW3NN9c/sl-012120-27260-36.png"),
     #111111;
   background-size: 1500px 1000px;
   color: #eee;
